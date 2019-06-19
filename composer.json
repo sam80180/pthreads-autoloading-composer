@@ -1,4 +1,6 @@
 {
+    "name": "krakjoe/pthreads-autoloading-composer",
+    "type": "library",
     "require":{
         "ext-pthreads": ">=2.0.0"
     },
